@@ -1,0 +1,15 @@
+D:\GenericApplication\DynamicApp\DynamicApp.Infrastructure\bin\Debug\net9.0\DynamicApp.Infrastructure.deps.json
+D:\GenericApplication\DynamicApp\DynamicApp.Infrastructure\bin\Debug\net9.0\DynamicApp.Infrastructure.dll
+D:\GenericApplication\DynamicApp\DynamicApp.Infrastructure\bin\Debug\net9.0\DynamicApp.Infrastructure.pdb
+D:\GenericApplication\DynamicApp\DynamicApp.Infrastructure\bin\Debug\net9.0\DynamicApp.Domain.dll
+D:\GenericApplication\DynamicApp\DynamicApp.Infrastructure\bin\Debug\net9.0\DynamicApp.Domain.pdb
+D:\GenericApplication\DynamicApp\DynamicApp.Infrastructure\obj\Debug\net9.0\DynamicApp.Infrastructure.csproj.AssemblyReference.cache
+D:\GenericApplication\DynamicApp\DynamicApp.Infrastructure\obj\Debug\net9.0\DynamicApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenericApplication\DynamicApp\DynamicApp.Infrastructure\obj\Debug\net9.0\DynamicApp.Infrastructure.AssemblyInfoInputs.cache
+D:\GenericApplication\DynamicApp\DynamicApp.Infrastructure\obj\Debug\net9.0\DynamicApp.Infrastructure.AssemblyInfo.cs
+D:\GenericApplication\DynamicApp\DynamicApp.Infrastructure\obj\Debug\net9.0\DynamicApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\GenericApplication\DynamicApp\DynamicApp.Infrastructure\obj\Debug\net9.0\DynamicA.E1B68677.Up2Date
+D:\GenericApplication\DynamicApp\DynamicApp.Infrastructure\obj\Debug\net9.0\DynamicApp.Infrastructure.dll
+D:\GenericApplication\DynamicApp\DynamicApp.Infrastructure\obj\Debug\net9.0\refint\DynamicApp.Infrastructure.dll
+D:\GenericApplication\DynamicApp\DynamicApp.Infrastructure\obj\Debug\net9.0\DynamicApp.Infrastructure.pdb
+D:\GenericApplication\DynamicApp\DynamicApp.Infrastructure\obj\Debug\net9.0\ref\DynamicApp.Infrastructure.dll
